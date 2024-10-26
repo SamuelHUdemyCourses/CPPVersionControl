@@ -7,7 +7,10 @@ void greet()
 	cout << "Welcome to my program!\n";
 }
 
-void solution();
+void solution() 
+{
+	cout << "Your problem is solved!\n";
+}
 
 int main()
 {
