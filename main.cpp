@@ -3,5 +3,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Main function\n";
+	// Print some text
+	cout << "Welcome!\n";
 }
