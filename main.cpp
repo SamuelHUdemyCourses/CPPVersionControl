@@ -7,6 +7,8 @@ void greet()
 	cout << "Welcome to my program!\n";
 }
 
+void conflict();
+
 int main()
 {
 	greet();
